@@ -26,10 +26,10 @@
 
 | 下载 | 链接 |
 | --- | --- |
-| 全部安装包 | [Releases 0.1.3](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/latest) |
-| Windows | [exe](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.3/DeepSeek-0.1.3-win.exe) |
-| Linux | [tar.gz](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.3/DeepSeek-0.1.3-linux-x64.tar.gz) |
-| macOS | [Apple Silicon dmg](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.3/DeepSeek-0.1.3-mac-arm64.dmg) |
+| 全部安装包 | [Releases 0.1.4](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/latest) |
+| Windows | [exe](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.4/DeepSeek-0.1.4-win.exe) |
+| Linux | [tar.gz](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.4/DeepSeek-0.1.4-linux-x64.tar.gz) |
+| macOS | [Apple Silicon dmg](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.4/DeepSeek-0.1.4-mac-arm64.dmg) |
 
 ## 其它
 
