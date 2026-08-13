@@ -7,14 +7,15 @@
 
 [主页](https://zhuquan7237.github.io/me.html) ·
 [下载桌面版](https://zhuquan7237.github.io) ·
-[仓库](https://github.com/zhuquan7237/zhuquan7237.github.io) ·
+[DeepSeek Harness Desktop](https://github.com/zhuquan7237/deepseek-harness-desktop) ·
+[源码仓库](https://github.com/zhuquan7237/zhuquan7237.github.io) ·
 [GitHub](https://github.com/zhuquan7237)
 
 </div>
 
 ## 代表作
 
-### [DeepSeek Harness 桌面版](https://zhuquan7237.github.io)
+### [DeepSeek Harness 桌面版](https://github.com/zhuquan7237/deepseek-harness-desktop)
 给官方 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 套上 Windows / Linux / macOS 安装包。  
 下载就能用，不用 `git clone`，引擎始终是官方 `@deepseek-ai/dsh`。
 
@@ -30,6 +31,7 @@
 | Windows | [exe](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.4/DeepSeek-0.1.4-win.exe) |
 | Linux | [tar.gz](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.4/DeepSeek-0.1.4-linux-x64.tar.gz) |
 | macOS | [Apple Silicon dmg](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.4/DeepSeek-0.1.4-mac-arm64.dmg) |
+| GitHub 搜索名 | [deepseek-harness-desktop](https://github.com/zhuquan7237/deepseek-harness-desktop) |
 
 ## 其它
 
