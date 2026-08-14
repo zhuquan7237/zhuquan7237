@@ -10,6 +10,7 @@
 [主页](https://zhuquan7237.github.io/me.html) ·
 [下载桌面版](https://zhuquan7237.github.io) ·
 [DeepSeek Harness Desktop](https://github.com/zhuquan7237/deepseek-harness-desktop) ·
+[和其他桌面版](https://zhuquan7237.github.io/compare.html) ·
 [源码仓库](https://github.com/zhuquan7237/zhuquan7237.github.io) ·
 [GitHub](https://github.com/zhuquan7237)
 
@@ -18,8 +19,8 @@
 ## 代表作
 
 ### [DeepSeek Harness 桌面版](https://github.com/zhuquan7237/deepseek-harness-desktop)
-给官方 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 套上 Windows / Linux / macOS 安装包。  
-下载就能用，不用 `git clone`，引擎始终是官方 `@deepseek-ai/dsh`。  
+基于官方 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 打造的 Electron 桌面端。  
+Windows / Linux / macOS 开箱即用，不用 `git clone`，引擎始终从 npm 安装官方 `@deepseek-ai/dsh`，不整仓拷贝官方源码。  
 0.1.12 把默认皮肤打进安装包，并尽量继承旧版 API 密钥。默认皮肤「深海女仆工坊」来自 [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)，CC BY-NC-SA 4.0，禁止商用。
 
 <p align="center">
@@ -35,6 +36,7 @@
 | Linux | [tar.gz](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.12/DeepSeek-0.1.12-linux-x64.tar.gz) |
 | macOS | [Apple Silicon dmg](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.12/DeepSeek-0.1.12-mac-arm64.dmg) |
 | GitHub 搜索名 | [deepseek-harness-desktop](https://github.com/zhuquan7237/deepseek-harness-desktop) |
+| 和其他桌面版 | [对照](https://zhuquan7237.github.io/compare.html) |
 
 ## 其它
 
