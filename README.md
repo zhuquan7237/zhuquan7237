@@ -25,7 +25,7 @@ Windows / Linux / macOS 开箱即用，不用 `git clone`，引擎始终从 npm 
 
 <p align="center">
   <a href="https://dsh.zhuquan.xyz">
-    <img src="https://dsh.zhuquan.xyz/assets/desktop-preview.png" alt="DeepSeek Harness 桌面版 0.1.12：默认皮肤「深海女工坊」" width="860" />
+    <img src="https://dsh.zhuquan.xyz/assets/desktop-preview.png" alt="DeepSeek Harness 桌面版 0.1.12：默认皮肤「深海女仆工坊」" width="860" />
   </a>
 </p>
 
