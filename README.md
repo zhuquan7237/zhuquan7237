@@ -21,21 +21,21 @@
 ### [DeepSeek Harness 桌面版](https://dsh.zhuquan.xyz)
 基于官方 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 打造的 Electron 桌面端。  
 Windows / Linux / macOS 开箱即用，不用 `git clone`，引擎始终从 npm 安装官方 `@deepseek-ai/dsh`，不整仓拷贝官方源码。  
-0.1.14 把默认皮肤从安装包复制出来，不再去 GitHub 拉，并尽量继承旧版 API 密钥。默认皮肤「深海女仆工坊」来自 [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)，CC BY-NC-SA 4.0，禁止商用。**这套画面不是我画的。** 谢谢一创 [上善](https://www.pixiv.net/users/62155430)、二创 [ZipZipPipe](https://www.pixiv.net/users/18604994)、三创 Small-tailqwq。完整致谢：https://dsh.zhuquan.xyz/#skin
+0.1.15 修好软件内「检查更新」进度停在 0%，并把默认皮肤从安装包复制出来，不再去 GitHub 拉，尽量继承旧版 API 密钥。默认皮肤「深海女仆工坊」来自 [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)，CC BY-NC-SA 4.0，禁止商用。**这套画面不是我画的。** 谢谢一创 [上善](https://www.pixiv.net/users/62155430)、二创 [ZipZipPipe](https://www.pixiv.net/users/18604994)、三创 Small-tailqwq。完整致谢：https://dsh.zhuquan.xyz/#skin
 
 <p align="center">
   <a href="https://dsh.zhuquan.xyz">
-    <img src="https://raw.githubusercontent.com/zhuquan7237/zhuquan7237.github.io/main/assets/desktop-preview.png" alt="DeepSeek Harness 桌面版 0.1.14：默认皮肤「深海女仆工坊」" width="860" />
+    <img src="https://raw.githubusercontent.com/zhuquan7237/zhuquan7237.github.io/main/assets/desktop-preview.png" alt="DeepSeek Harness 桌面版 0.1.15：默认皮肤「深海女仆工坊」" width="860" />
   </a>
 </p>
 
 | 下载 | 链接 |
 | --- | --- |
 | 产品主页 | [dsh.zhuquan.xyz](https://dsh.zhuquan.xyz) |
-| 全部安装包 | [Releases 0.1.14](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/latest) |
-| Windows | [exe](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.14/DeepSeek-0.1.14-win.exe) |
-| Linux | [tar.gz](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.14/DeepSeek-0.1.14-linux-x64.tar.gz) |
-| macOS | [Apple Silicon dmg](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.14/DeepSeek-0.1.14-mac-arm64.dmg) |
+| 全部安装包 | [Releases 0.1.15](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/latest) |
+| Windows | [exe](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.15/DeepSeek-0.1.15-win.exe) |
+| Linux | [tar.gz](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.15/DeepSeek-0.1.15-linux-x64.tar.gz) |
+| macOS | [Apple Silicon dmg](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.15/DeepSeek-0.1.15-mac-arm64.dmg) |
 | GitHub 搜索名 | [deepseek-harness-desktop](https://github.com/zhuquan7237/deepseek-harness-desktop) |
 | 和其他桌面版 | [对照](https://dsh.zhuquan.xyz/compare.html) |
 
