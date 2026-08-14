@@ -21,11 +21,11 @@
 ### [DeepSeek Harness 桌面版](https://dsh.zhuquan.xyz)
 基于官方 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 打造的 Electron 桌面端。  
 Windows / Linux / macOS 开箱即用，不用 `git clone`，引擎始终从 npm 安装官方 `@deepseek-ai/dsh`，不整仓拷贝官方源码。  
-0.1.12 把默认皮肤打进安装包，并尽量继承旧版 API 密钥。默认皮肤「深海女仆工坊」来自 [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)，CC BY-NC-SA 4.0，禁止商用。
+0.1.12 把默认皮肤打进安装包，并尽量继承旧版 API 密钥。默认皮肤「深海女仆工坊」来自 [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)，CC BY-NC-SA 4.0，禁止商用。**这套画面不是我画的。** 谢谢一创 [上善](https://www.pixiv.net/users/62155430)、二创 [ZipZipPipe](https://www.pixiv.net/users/18604994)、三创 Small-tailqwq。完整致谢：https://dsh.zhuquan.xyz/#skin
 
 <p align="center">
   <a href="https://dsh.zhuquan.xyz">
-    <img src="https://dsh.zhuquan.xyz/assets/desktop-preview.png" alt="DeepSeek Harness 桌面版截图" width="860" />
+    <img src="https://dsh.zhuquan.xyz/assets/desktop-preview.png" alt="DeepSeek Harness 桌面版 0.1.12：默认皮肤「深海女工坊」" width="860" />
   </a>
 </p>
 
