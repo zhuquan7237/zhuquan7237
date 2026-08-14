@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/zhuquan7237/zhuquan7237.github.io/main/assets/deepseek-whale.png" width="96" alt="DeepSeek" />
+
 # 你好，我是朱泉 / Quan Zhu
 
 **广东海洋大学 · 材料科学与工程**  
@@ -21,16 +23,16 @@
 
 <p align="center">
   <a href="https://zhuquan7237.github.io">
-    <img src="https://raw.githubusercontent.com/zhuquan7237/zhuquan7237.github.io/a039f81/assets/desktop-preview.png" alt="DeepSeek Harness 桌面版截图" width="860" />
+    <img src="https://raw.githubusercontent.com/zhuquan7237/zhuquan7237.github.io/main/assets/desktop-preview.png" alt="DeepSeek Harness 桌面版截图" width="860" />
   </a>
 </p>
 
 | 下载 | 链接 |
 | --- | --- |
-| 全部安装包 | [Releases 0.1.4](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/latest) |
-| Windows | [exe](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.4/DeepSeek-0.1.4-win.exe) |
-| Linux | [tar.gz](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.4/DeepSeek-0.1.4-linux-x64.tar.gz) |
-| macOS | [Apple Silicon dmg](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.4/DeepSeek-0.1.4-mac-arm64.dmg) |
+| 全部安装包 | [Releases 0.1.9](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/latest) |
+| Windows | [exe](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.9/DeepSeek-0.1.9-win.exe) |
+| Linux | [tar.gz](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.9/DeepSeek-0.1.9-linux-x64.tar.gz) |
+| macOS | [Apple Silicon dmg](https://github.com/zhuquan7237/zhuquan7237.github.io/releases/download/desktop-v0.1.9/DeepSeek-0.1.9-mac-arm64.dmg) |
 | GitHub 搜索名 | [deepseek-harness-desktop](https://github.com/zhuquan7237/deepseek-harness-desktop) |
 
 ## 其它
