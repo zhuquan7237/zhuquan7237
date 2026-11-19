@@ -1,0 +1,6 @@
+# https://docs.devin.ai/onboard-devin/environment-yaml
+# Profile README repo: no dependencies, build, or tests.
+knowledge:
+  - name: notes
+    contents: |
+      Only README.md (GitHub profile page, Markdown/HTML). No build/lint/test; edit README.md directly. The desktop app is in zhuquan7237/deepseek-harness-desktop and the site in zhuquan7237/zhuquan7237.github.io.
